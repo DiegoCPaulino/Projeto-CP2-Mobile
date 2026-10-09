@@ -26,11 +26,3 @@ A lógica do sistema também ficará no arquivo **`App.js`**, por meio de duas f
 
 - **`incrementar()`**: aumenta o valor do contador em 1 quando o usuário pressiona o botão **Entrada (+)**.
 - **`decrementar()`**: diminui o valor do contador em 1 quando o usuário pressiona o botão **Saída (-)**, desde que o contador seja maior que zero.
-
-As funções serão executadas pelos eventos **`onPress`** dos respectivos botões.
-
-## Tecnologias utilizadas
-
-- React Native
-- JavaScript
-- React Hooks (`useState`)
